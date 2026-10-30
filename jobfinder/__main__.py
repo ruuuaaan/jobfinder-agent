@@ -9,6 +9,9 @@ from .planning import build_plan, effective_config, authorize_config, extend_pla
 
 
 def main():
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, 'reconfigure'):
+            stream.reconfigure(encoding='utf-8', errors='backslashreplace')
     parser=argparse.ArgumentParser(prog="python -m jobfinder",description="中国大陆岗位检索：Agent辅助发现 + 独立可测试核心")
     commands=parser.add_subparsers(dest="command",required=True)
     for name in ("validate-config","offline","process-candidates","process-browser","search","export","plan","extend-plan","new-search","refresh","resume-traversal"):
