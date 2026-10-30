@@ -1,0 +1,11 @@
+{
+  "config_kind":"offline",
+  "example_only":true,
+  "market_scope":"CN_MAINLAND",
+  "role_keywords":["产品经理"],
+  "target_cities":["深圳"],
+  "education":{"value":"本科","mode":"candidate_qualification"},
+  "salary":{"amount":15000,"currency":"CNY","period":"month","basis":"gross","match_mode":"conservative"},
+  "sources":["official_career","manual_import"],
+  "budget":{"requests":0}
+}

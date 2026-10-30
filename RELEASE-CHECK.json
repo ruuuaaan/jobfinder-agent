@@ -1,0 +1,11 @@
+{
+  "file_count": 114,
+  "allowlist_only": true,
+  "no_git_history": true,
+  "credential_shape_scan": "passed",
+  "private_path_scan": "passed",
+  "markdown_links": "passed",
+  "note": "Automated checks; not a complete security audit or live-host compatibility certification.",
+  "version": "0.3.0-beta.1",
+  "package": "jobfinder-agent"
+}

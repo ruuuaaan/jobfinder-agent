@@ -1,0 +1,5 @@
+{
+  "mode":"offline",
+  "coverage":"三个明确标记的合成记录，不是真实招聘",
+  "candidates":[{"query":"离线合成验证","url":"https://example.invalid/synthetic","title":"合成岗位","discovered_at":"2026-09-21T13:00:00+08:00","source_channel":"manual_import","local_file":"tests/fixtures/jobs.synthetic.json","authorized_import":true,"synthetic":true}]
+}

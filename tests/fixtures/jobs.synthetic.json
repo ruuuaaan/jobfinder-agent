@@ -1,0 +1,5 @@
+[
+  {"company":"合成测试企业（非真实招聘）","title":"产品经理","description":"仅用于离线验证，负责测试产品需求。","location_raw":"深圳市南山区","education_raw":"本科及以上","salary_raw":"人民币税前月薪15000-18000元，固定月薪，13薪","open_status":"OPEN","source_url":"https://example.invalid/synthetic/1","synthetic":true},
+  {"company":"合成测试企业（非真实招聘）","title":"产品经理","description":"仅用于离线验证。","location_raw":"Hong Kong","education_raw":"学历不限","salary_raw":"面议","source_url":"https://example.invalid/synthetic/2","synthetic":true},
+  {"company":"合成测试企业（非真实招聘）","title":"产品经理","description":"仅用于离线验证。","location_raw":"China","source_url":"https://example.invalid/synthetic/3","synthetic":true}
+]

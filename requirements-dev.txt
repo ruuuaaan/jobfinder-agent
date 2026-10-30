@@ -1,0 +1,2 @@
+# Optional: official skill-creator validator only. Install to .devdeps, not globally.
+PyYAML==6.0.3

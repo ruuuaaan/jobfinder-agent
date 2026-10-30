@@ -1,0 +1,30 @@
+{
+  "config_kind": "user",
+  "user_input_confirmed": false,
+  "example_only": false,
+  "market_scope": "CN_MAINLAND",
+  "location_mode": "cities",
+  "role_keywords": [],
+  "target_cities": [],
+  "salary": {
+    "enabled": false
+  },
+  "experience": null,
+  "recruitment_type": null,
+  "unknown_policy": "review",
+  "sources": [
+    "official_career",
+    "manual_import"
+  ],
+  "budget": {
+    "requests": null,
+    "searches_per_city": 10,
+    "companies_per_city": null,
+    "timeout": 12,
+    "retries": 0,
+    "domain_interval": 1
+  },
+  "search_provider": "codex_assisted",
+  "rules_version": "CN_MAINLAND-4.0",
+  "candidate_education": null
+}
